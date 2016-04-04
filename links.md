@@ -15,3 +15,6 @@ https://www.data.gov.au/dataset
 
 * patsy : How formulas work
 https://patsy.readthedocs.org/en/latest/formulas.html
+
+* statsmodels : Statistics in Python
+http://statsmodels.sourceforge.net/devel/index.html
