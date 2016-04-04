@@ -12,3 +12,6 @@ https://www.google.com.au/search?client=safari&rls=en&q=boxplot&ie=UTF-8&oe=UTF-
 
 * Australia public data 
 https://www.data.gov.au/dataset
+
+* patsy : How formulas work
+https://patsy.readthedocs.org/en/latest/formulas.html
