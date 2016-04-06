@@ -18,3 +18,9 @@ https://patsy.readthedocs.org/en/latest/formulas.html
 
 * statsmodels : Statistics in Python
 http://statsmodels.sourceforge.net/devel/index.html
+
+* Seaborn
+https://web.stanford.edu/~mwaskom/software/seaborn/generated/seaborn.lmplot.html
+
+* Machine Learning Data reporsitory
+http://archive.ics.uci.edu/ml/machine-learning-databases
