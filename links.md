@@ -24,3 +24,6 @@ https://web.stanford.edu/~mwaskom/software/seaborn/generated/seaborn.lmplot.html
 
 * Machine Learning Data reporsitory
 http://archive.ics.uci.edu/ml/machine-learning-databases
+
+* Elastic Net
+http://scikit-learn.org/stable/modules/linear_model.html#elastic-net
