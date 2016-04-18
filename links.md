@@ -30,3 +30,4 @@ http://scikit-learn.org/stable/modules/linear_model.html#elastic-net
 
 * Leaning SEO
 https://moz.com/learn/seo
+http://growthnerd.com/80-plus-tools-for-online-business/
