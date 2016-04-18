@@ -34,3 +34,6 @@ http://growthnerd.com/80-plus-tools-for-online-business/
 
 * DBSCAN - Density-Based Spatial Clustering of Applications with Noise
 http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
+
+* Hierarchical Clustering
+https://en.wikipedia.org/wiki/Hierarchical_clustering
