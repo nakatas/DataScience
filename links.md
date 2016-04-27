@@ -37,3 +37,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
 
 * Hierarchical Clustering
 https://en.wikipedia.org/wiki/Hierarchical_clustering
+
+* Principal Component Analysis
+http://setosa.io/ev/principal-component-analysis/
